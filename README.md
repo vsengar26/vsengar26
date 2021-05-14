@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishnu Singh Sengar</h1>
+<h1 align="center">Hi 👋, I'm Vishnu</h1>
 <h3 align="center">Creative, Enthusiastic and Eager to change this world!</h3>
 
 - 🔭 I’m currently working on [covid.army](https://github.com/covidarmy)
