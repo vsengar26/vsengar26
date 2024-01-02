@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
 <h3 align="center">Creative, Enthusiastic and Eager to change this world!</h3>
 
-- 🔭 I’m currently working on [covid.army](https://github.com/covidarmy)
-
 - 👯 I’m looking to collaborate on **Projects having societal impacts!**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/contactvishnu/](https://www.linkedin.com/in/contactvishnu/)
