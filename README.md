@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **vsengar26@gmail.com**
 
-- ⚡ Fun fact **As a kid I was afraid of Python :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
